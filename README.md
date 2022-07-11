@@ -6,7 +6,7 @@
 - However during the Covid-19 pandemic I changed my professional area to IT 💻
 - I'm currently studying Software Engineering
 - I support more LGBTQ+ people in the technology field
-- I like japanese animes, chinese dramas, K-pop(specially BP) and TaylorSwift.
+- I like japanese animes, chinese dramas, K-pop and TaylorSwift.
 
 ## Here my professional profile
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-silva-48ba83198/?locale=en_US)
