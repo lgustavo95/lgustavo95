@@ -4,8 +4,7 @@
 
 - I have a Bachelor's degree in Biology 🔬
 - However during the Covid-19 pandemic I switched from Life Sciences to Information Technology 💻
-- I'm currently studying Sistems Development (equivalent to an Associate Degree in IT in North America.)
-- I support more LGBTQ+ people in the technology field.
+- I'm currently studying Sistems Development (equivalent to an Associate Degree in IT in USA/Canada)
 
 ## Here my professional profile
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-silva-48ba83198/?locale=en_US)
